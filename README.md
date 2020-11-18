@@ -23,6 +23,10 @@
 4. Computer Lab Assistant for "Introduction to Computation" (2020) (Ongoing)
 5. Andrew Ng. Machine Learning Course (2020) (Ongoing)
 
+## Communities
+1. Member of ITB's Developer Student Clubs (2020)
+2. Member of HMIF Community (2020)
+
 ## Get in touch
 - <a href="mailto:kadeksuryam@gmail.com">Email</a>
 - <a href="https://linkedin.com/in/kadeksuryam/">Linkedin</a>
