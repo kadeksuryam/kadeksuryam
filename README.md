@@ -1,4 +1,4 @@
-# Kadek Surya Mahardika | Programmer
+# Kadek Surya Mahardika | IF19
 
 ### Hi there 👋
 
@@ -8,6 +8,17 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kadeksuryam&show_icons=true)
 
+
+### My Project
+
+Personal :
+- ITB NIM FINDER. ![REPO](https://github.com/kadeksuryam/ITB-NIM-Finder)
+- Presensi Otomatis SIX. ![REPO](https://github.com/kadeksuryam/Presensi-Otomatis-SIX)
+- Personal Line Bot. REPO : Private REPO, because contains my personal data
+
+Group : 
+- Document Search Engine. ![REPO](https://github.com/kadeksuryam/Algeo2-13519009)
+- Linear Algebra Calculator. ![REPO](https://github.com/kadeksuryam/Algeo01-13519044) 
 
 ## Get in touch
 - <a href="https://kadeksuryam.github.io">My Portofolio Website</a>
